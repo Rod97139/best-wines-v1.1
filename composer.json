@@ -1,0 +1,20 @@
+{
+    "require-dev": {
+        "filp/whoops": "^2.14",
+        "symfony/var-dumper": "^6.0"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "phpmailer/phpmailer": "^6.7",
+        "paypal/paypal-checkout-sdk": "^1.0",
+        "stripe/stripe-php": "^10.2",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "core/",
+            "App\\" : "src/"
+        }
+    }
+}

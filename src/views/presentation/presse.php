@@ -1,0 +1,12 @@
+<div class=" container py-5">
+    <H1 class="text-center">Le presse parle de nous</H1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et omnis obcaecati excepturi nisi voluptates quis nostrum, sapiente odio mollitia! Quod adipisci natus vero, nemo minus quaerat aliquam ducimus esse aliquid.
+        Voluptatibus eligendi minus necessitatibus. Illo mollitia quis labore facere doloremque. Fuga nulla accusamus dolores expedita eum! Sed, reiciendis, esse qui possimus amet quas necessitatibus velit cum ullam doloribus placeat. Accusamus!
+        Impedit vel ab facere voluptatibus suscipit voluptatem dolore aut nisi aliquid pariatur debitis cupiditate possimus voluptas dolores quidem molestiae necessitatibus libero culpa, maxime, ea error accusamus sint repudiandae. Hic, in?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda eaque corporis delectus quia aut fuga, perspiciatis modi sapiente. Nobis vero ea quas, iure aliquid excepturi itaque ipsa libero consectetur cupiditate.
+        Eum, voluptas. Enim blanditiis sit nulla quisquam reiciendis, quos tenetur officia sunt ipsa aut. Neque pariatur dolores necessitatibus et quidem minima, qui ratione ab vero, consequuntur quisquam architecto blanditiis ea!
+        Voluptatibus, explicabo libero corporis in obcaecati officia minima velit excepturi maxime aperiam esse est, porro illo fugit officiis eligendi eius repellendus. Voluptatibus et saepe minus eos ea! Consequatur, eius adipisci?
+        Necessitatibus tempore ratione cum esse accusamus, maxime optio possimus quisquam amet laboriosam! Placeat non distinctio dignissimos accusamus reprehenderit! Soluta assumenda earum obcaecati tempore et nihil commodi eum libero, in adipisci.
+        Architecto, odit consequuntur quidem minus, eius, sunt soluta magni veniam sit iure accusantium repellat? Consequuntur aspernatur porro ratione voluptas, maiores eligendi eveniet sint expedita ad, impedit, exercitationem labore odio dolorem.
+        Eaque exercitationem omnis quia enim quaerat fuga eum perspiciatis quod? Qui, illo rerum labore laudantium sapiente voluptatum assumenda id sit. Distinctio officiis tenetur dicta maiores. Blanditiis rerum eum natus voluptate!</p>
+</div>git 
